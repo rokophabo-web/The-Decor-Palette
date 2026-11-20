@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://the-decor-palette-6mw.pages.dev/sitemap.xml

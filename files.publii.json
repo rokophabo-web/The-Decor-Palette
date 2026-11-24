@@ -12,7 +12,7 @@
     {
         "path": "/a-luxurious-touch-for-stylish-and-comfortable-living-rooms/index.html",
         "type": "file",
-        "md5": "c8d68e09f3fa1046ba0d8e6fd482b56c"
+        "md5": "ba886b223e540139b9fda65bb6053791"
     },
     {
         "path": "a-stylish-choice-for-modern-home-lighting-and-lamps",
@@ -117,7 +117,7 @@
     {
         "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "cb26a0fe4ecf33cc4385694bee21daae"
+        "md5": "cabd7631b7f6e2c9827513a7415aa3fc"
     },
     {
         "path": "authors/james-k-perry/page",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "901eebfe95939c5d124524208b7e56b3"
+        "md5": "eae2758a4b5c237070045570ba2ef12a"
     },
     {
         "path": "authors/james-k-perry/page/3",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/james-k-perry/page/3/index.html",
         "type": "file",
-        "md5": "1919204d973262579c295ba80ffafd6d"
+        "md5": "b09b8be0e61af277e643225c98b34a85"
     },
     {
         "path": "beautiful-decorative-details-that-transform-your-home",
@@ -165,6 +165,16 @@
         "md5": "ef241997e2a90710cd2174511c0269a3"
     },
     {
+        "path": "creating-a-stylish-and-comfortable-living-room-with-elegant-upholstered-furniture",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/creating-a-stylish-and-comfortable-living-room-with-elegant-upholstered-furniture/index.html",
+        "type": "file",
+        "md5": "dbc1593e19ac67a9ff2719fbd35f60e8"
+    },
+    {
         "path": "creating-comfortable-living-room-designs-and-sofas-in-compact-spaces",
         "type": "directory",
         "md5": false
@@ -172,7 +182,7 @@
     {
         "path": "/creating-comfortable-living-room-designs-and-sofas-in-compact-spaces/index.html",
         "type": "file",
-        "md5": "54c60c954e2913c3b1abf8f72021f7d4"
+        "md5": "49c3a42a0130af5a5f57c725ac2c56ef"
     },
     {
         "path": "creative-lighting-ideas-to-transform-your-home-interior",
@@ -232,17 +242,17 @@
     {
         "path": "/elegant-comfort-for-modern-living-room-designs/index.html",
         "type": "file",
-        "md5": "2b48b425544ad77851263fabcf67d063"
+        "md5": "cc94c50b61e8850443d83c04ee82fd72"
     },
     {
         "path": "feed.json",
         "type": "file",
-        "md5": "bc0c4ca61f2709438adfb4fdefeecf13"
+        "md5": "a52bc8a096169099a54591b60d2abed7"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "ddc387d3f86936ceb0c5d59dd70bddcb"
+        "md5": "c1de8c11be664c4f6db10476cab08f5e"
     },
     {
         "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
@@ -272,7 +282,7 @@
     {
         "path": "/how-to-choose-the-perfect-lighting-to-transform-your-home-interior/index.html",
         "type": "file",
-        "md5": "d860ed66944fcbf9eedbea5ba1425c81"
+        "md5": "21c04d1be304ec159db44cdad13a6302"
     },
     {
         "path": "how-to-create-a-sophisticated-living-room-with-luxurious-seating",
@@ -282,12 +292,12 @@
     {
         "path": "/how-to-create-a-sophisticated-living-room-with-luxurious-seating/index.html",
         "type": "file",
-        "md5": "57425223390205a6f48fd0b1b9364d5a"
+        "md5": "4e261cb76918ec48761491a9a4290232"
     },
     {
         "path": "index.html",
         "type": "file",
-        "md5": "df75e37b012f61a5db9b6d3515c4a59f"
+        "md5": "1a72a1bc7d0e15adb4c987d60107859a"
     },
     {
         "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
@@ -1600,6 +1610,56 @@
         "md5": "9f08f87b6b22a3e331c0164416a38749"
     },
     {
+        "path": "media/posts/32",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/images-2026-11-24T213146.445.jpg",
+        "type": "file",
+        "md5": "5264b0a0146e3f403f19001091a74728"
+    },
+    {
+        "path": "media/posts/32/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-24T213146.445-2xl.jpg",
+        "type": "file",
+        "md5": "b4e5b0b6f53d5791054ed02add0125e0"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-24T213146.445-lg.jpg",
+        "type": "file",
+        "md5": "b4e5b0b6f53d5791054ed02add0125e0"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-24T213146.445-md.jpg",
+        "type": "file",
+        "md5": "b4e5b0b6f53d5791054ed02add0125e0"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-24T213146.445-sm.jpg",
+        "type": "file",
+        "md5": "b4e5b0b6f53d5791054ed02add0125e0"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-24T213146.445-sm2.jpg",
+        "type": "file",
+        "md5": "b4e5b0b6f53d5791054ed02add0125e0"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-24T213146.445-xl.jpg",
+        "type": "file",
+        "md5": "b4e5b0b6f53d5791054ed02add0125e0"
+    },
+    {
+        "path": "/media/posts/32/responsive/images-2026-11-24T213146.445-xs.jpg",
+        "type": "file",
+        "md5": "6f76ef55cca4160d02f3ccae09c1a2bf"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1777,7 +1837,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "de19b75841f9ff82c40bf02b91394d27"
+        "md5": "e6f6dd285eea8791c113fa777fe21347"
     },
     {
         "path": "page/3",
@@ -1787,7 +1847,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "c7737c39eeb01916411c5f5868ddb996"
+        "md5": "b3008889e81bdb20f94ad95454689c46"
     },
     {
         "path": "pivacy-policy",
@@ -1807,7 +1867,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "4d82109f65b9312cd8a9161b1dae4c00"
+        "md5": "2fd27f1a5927cf1b77086f65860eb6bf"
     },
     {
         "path": "sitemap.xsl",
@@ -1822,7 +1882,7 @@
     {
         "path": "/small-layouts-how-to-design-beautiful-living-room-designs-and-sofas-in-limited-spaces/index.html",
         "type": "file",
-        "md5": "52a72a736fd4091585568ea543d828ba"
+        "md5": "db8cabf1e43ac1a4ea02d8714c10badf"
     },
     {
         "path": "stylish-design-ideas-for-modern-and-timeless-interiors",
@@ -1852,7 +1912,7 @@
     {
         "path": "/stylish-seating-ideas-for-modern-living-rooms/index.html",
         "type": "file",
-        "md5": "fe9d74e1d55ce161270339d34442422f"
+        "md5": "62394e9145fffd797b51dc9ff0bb32b3"
     },
     {
         "path": "stylish-ways-to-refresh-your-modern-home-decor",
@@ -1892,7 +1952,7 @@
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "077e2777e0e36fe1fafacb7ce8ccf88a"
+        "md5": "109fa6f2d3d6e1b44b2756fe88651970"
     },
     {
         "path": "tags/l-shaped-sectional-sofas",
@@ -1922,7 +1982,7 @@
     {
         "path": "/tags/living-room-designs-and-sofas/index.html",
         "type": "file",
-        "md5": "dbf8913da93622a9573c04f6b7f74c71"
+        "md5": "25cb15dda2f280ee0655fde60caa18b1"
     },
     {
         "path": "tags/modern-decor-accessories",
@@ -2012,7 +2072,7 @@
     {
         "path": "/tags/velvet-couches/index.html",
         "type": "file",
-        "md5": "c6ae64870d12b64bbf75e54e46adab7c"
+        "md5": "774d48db1db52e4e0816587bed4bb67e"
     },
     {
         "path": "tags/wall-art-and-mirrors",

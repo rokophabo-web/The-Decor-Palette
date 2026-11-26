@@ -117,7 +117,7 @@
     {
         "path": "/authors/james-k-perry/index.html",
         "type": "file",
-        "md5": "cabd7631b7f6e2c9827513a7415aa3fc"
+        "md5": "fc456e1f445c4cdd71a91a8661dd62c0"
     },
     {
         "path": "authors/james-k-perry/page",
@@ -132,7 +132,7 @@
     {
         "path": "/authors/james-k-perry/page/2/index.html",
         "type": "file",
-        "md5": "eae2758a4b5c237070045570ba2ef12a"
+        "md5": "49c998df3993be0640255113390fc3dc"
     },
     {
         "path": "authors/james-k-perry/page/3",
@@ -142,7 +142,7 @@
     {
         "path": "/authors/james-k-perry/page/3/index.html",
         "type": "file",
-        "md5": "b09b8be0e61af277e643225c98b34a85"
+        "md5": "4407498385f139b91297f70ed72babe0"
     },
     {
         "path": "beautiful-decorative-details-that-transform-your-home",
@@ -172,7 +172,7 @@
     {
         "path": "/creating-a-stylish-and-comfortable-living-room-with-elegant-upholstered-furniture/index.html",
         "type": "file",
-        "md5": "dbc1593e19ac67a9ff2719fbd35f60e8"
+        "md5": "5e90cd3aa789e18f03f14ccf8fc8181e"
     },
     {
         "path": "creating-comfortable-living-room-designs-and-sofas-in-compact-spaces",
@@ -245,14 +245,24 @@
         "md5": "cc94c50b61e8850443d83c04ee82fd72"
     },
     {
+        "path": "enhancing-home-interiors-with-stylish-and-functional-lighting",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/enhancing-home-interiors-with-stylish-and-functional-lighting/index.html",
+        "type": "file",
+        "md5": "21ba763665f58dab04e61ad578e7deb7"
+    },
+    {
         "path": "feed.json",
         "type": "file",
-        "md5": "a52bc8a096169099a54591b60d2abed7"
+        "md5": "745b154632b1827014ee227e7dd3afbb"
     },
     {
         "path": "feed.xml",
         "type": "file",
-        "md5": "c1de8c11be664c4f6db10476cab08f5e"
+        "md5": "64aa96d0d1f982251385d69c03ff6e90"
     },
     {
         "path": "floor-lamps-elegant-lighting-ideas-for-every-room",
@@ -297,7 +307,7 @@
     {
         "path": "index.html",
         "type": "file",
-        "md5": "1a72a1bc7d0e15adb4c987d60107859a"
+        "md5": "f8ae8e349872fede70d4adb32aceb775"
     },
     {
         "path": "inspiring-wall-colors-and-accent-paints-for-modern-interiors",
@@ -1660,6 +1670,81 @@
         "md5": "6f76ef55cca4160d02f3ccae09c1a2bf"
     },
     {
+        "path": "media/posts/33",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/images-2026-11-26T200801.973-2.jpg",
+        "type": "file",
+        "md5": "38f74623e66fea76b94ea848c4d781cf"
+    },
+    {
+        "path": "/media/posts/33/images-2026-11-26T200801.973.jpg",
+        "type": "file",
+        "md5": "38f74623e66fea76b94ea848c4d781cf"
+    },
+    {
+        "path": "media/posts/33/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-2-lg.jpg",
+        "type": "file",
+        "md5": "690c26741a1c968a444f7da80e63fd6c"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-2-md.jpg",
+        "type": "file",
+        "md5": "690c26741a1c968a444f7da80e63fd6c"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-2-sm.jpg",
+        "type": "file",
+        "md5": "690c26741a1c968a444f7da80e63fd6c"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-2-xs.jpg",
+        "type": "file",
+        "md5": "2df73700ec9f97e3aaf644fb7030fdc6"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-2xl.jpg",
+        "type": "file",
+        "md5": "690c26741a1c968a444f7da80e63fd6c"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-lg.jpg",
+        "type": "file",
+        "md5": "690c26741a1c968a444f7da80e63fd6c"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-md.jpg",
+        "type": "file",
+        "md5": "690c26741a1c968a444f7da80e63fd6c"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-sm.jpg",
+        "type": "file",
+        "md5": "690c26741a1c968a444f7da80e63fd6c"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-sm2.jpg",
+        "type": "file",
+        "md5": "22b02199b6703267f0fa2bb66fbe0862"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-xl.jpg",
+        "type": "file",
+        "md5": "690c26741a1c968a444f7da80e63fd6c"
+    },
+    {
+        "path": "/media/posts/33/responsive/images-2026-11-26T200801.973-xs.jpg",
+        "type": "file",
+        "md5": "2df73700ec9f97e3aaf644fb7030fdc6"
+    },
+    {
         "path": "media/posts/4",
         "type": "directory",
         "md5": false
@@ -1837,7 +1922,7 @@
     {
         "path": "/page/2/index.html",
         "type": "file",
-        "md5": "e6f6dd285eea8791c113fa777fe21347"
+        "md5": "cc176e325dcbdea691d59829b35f98ce"
     },
     {
         "path": "page/3",
@@ -1847,7 +1932,7 @@
     {
         "path": "/page/3/index.html",
         "type": "file",
-        "md5": "b3008889e81bdb20f94ad95454689c46"
+        "md5": "bfcfbfcad8a99e4851c98bb751c3e22f"
     },
     {
         "path": "pivacy-policy",
@@ -1867,7 +1952,7 @@
     {
         "path": "sitemap.xml",
         "type": "file",
-        "md5": "2fd27f1a5927cf1b77086f65860eb6bf"
+        "md5": "e9859e5d716c7f12b28a3aeb0bce8515"
     },
     {
         "path": "sitemap.xsl",
@@ -1937,7 +2022,7 @@
     {
         "path": "/tags/floor-lamps/index.html",
         "type": "file",
-        "md5": "c2ccd55b4f931a379323a87e0f4ca5b9"
+        "md5": "e12951505c04cdf784f1f63940ba7ac4"
     },
     {
         "path": "tags/home-lighting-and-lamps",
@@ -1947,12 +2032,12 @@
     {
         "path": "/tags/home-lighting-and-lamps/index.html",
         "type": "file",
-        "md5": "75429ecb4e9ed4d43e202db9a02ffcca"
+        "md5": "54c4701a33207ee1d6510859a4170e0b"
     },
     {
         "path": "/tags/index.html",
         "type": "file",
-        "md5": "109fa6f2d3d6e1b44b2756fe88651970"
+        "md5": "0c28206e727c0dff0076bc182ba1ecff"
     },
     {
         "path": "tags/l-shaped-sectional-sofas",
